@@ -14,12 +14,6 @@ An AI-powered, voice-enabled conversational intake system that automates critica
 
 ## 🏗️ System Architecture & Workflow
 
-MedAI Doctor functions through a "Backend-as-a-Service" model. While the local repository is frontend-heavy, it orchestrates complex bidirectional audio streaming to a specialized VAPI AI backend. This delegation ensures high availability and low latency, moving complex STT/TTS infrastructure management off the local instance.
-
-### System Flow Diagram
-
-The following diagram illustrates how MedAI Doctor utilizes the `@vapi-ai/web` SDK to maintain low-latency, stateful connections with the VAPI backend, enabling a continuous voice conversation.
-
 ![MedAI Doctor Workflow Diagram](./docs/workflow-diagram.png)
 
 ### Interface Preview
