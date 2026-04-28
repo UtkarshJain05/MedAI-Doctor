@@ -47,7 +47,7 @@ The goal of this initiative was to prove that natural, multilingual voice interf
 
 ### 1. Repository Setup
 ```bash
-git clone [https://github.com/UtkarshJain05/medai-doctor.git]
+git clone https://github.com/UtkarshJain05/medai-doctor.git
 cd medai-doctor
 npm install
 ```
