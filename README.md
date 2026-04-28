@@ -16,6 +16,8 @@ An AI-powered, voice-enabled conversational intake system that automates critica
 
 ![MedAI Doctor Workflow Diagram](./docs/workflow-diagram.png)
 
+---
+
 ## Interface Preview
 
 #### The Landing Portal
