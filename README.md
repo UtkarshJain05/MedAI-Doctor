@@ -39,6 +39,8 @@ The goal of this initiative was to prove that natural, multilingual voice interf
 * **LLM Engine:** OpenAI `gpt-4o-mini` (Configured via zero-shot system prompts for rapid, accurate response times and strict clinical boundaries)
 * **Streaming:** WebRTC (low-latency bidirectional audio)
 
+---
+
 ## 💻 Local Development
 
 ### 1. Repository Setup
